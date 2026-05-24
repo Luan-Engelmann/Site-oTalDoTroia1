@@ -1,0 +1,4 @@
+## Dependências Python
+
+fastapi
+uvicorn[standard]
